@@ -18,7 +18,7 @@ public class EjercicioWhile {
 		while(numeroIngresadoUsuario != 0) {
 			
 			System.out.print("Para continuar ingrese un numero != 0: ");
-			numeroIngresadoUsuario=leer.nextInt();
+			//numeroIngresadoUsuario=leer.nextInt();
 			//numeroIngresadoUsuario--;
 			
 			System.out.println("Numero Ingresado ->"+numeroIngresadoUsuario);
